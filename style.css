@@ -1,0 +1,33 @@
+.nav-item{
+    font-size: 14;
+    color: #292929;
+}
+.text1{
+    font-size: 14px;
+    color: #292929;
+}
+.text2{
+    font-size: 10px;
+}
+.btn btn-warning btn-lg{
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.footerLogo{
+width: 80px;
+height: 40px;
+
+}
+.col-3{
+    font-size: 14px;
+}
+.col-5{
+    font-size: 14px;
+}
+.signup{
+    display: none;
+    border: #292929 solid 1px;
+    border-radius: 10px;
+    box-shadow: 5px 5px #efc11c78;
+}
